@@ -1,0 +1,15 @@
+{
+  "name": "alireza-skills",
+  "version": "1.0.0",
+  "description": "Curated collection of Alireza's agent skills.",
+  "author": {
+    "name": "Alireza Malek",
+    "url": "https://github.com/alireza-malek"
+  },
+  "repository": "https://github.com/alireza-malek/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills"
+  ],
+  "skills": "./skills"
+}
